@@ -1,0 +1,7 @@
+Estatus: 
+
+1 pendiente;
+2 Cancelada
+3 en proceso
+4 Rechazada
+5 Aprobaad
